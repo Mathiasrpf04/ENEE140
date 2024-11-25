@@ -1,0 +1,1 @@
+file_interleaving takes in two files as inputs and outputs a third file with alternating lines from files 1 and 2. 
