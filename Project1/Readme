@@ -1,0 +1,1 @@
+enee140_gen_rnd.c prompts the user to choose from a few different types of random numbers to generate and test_rnd tests whether a generated list of numbers is consistent with a uniform distribution.
