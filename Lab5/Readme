@@ -1,0 +1,2 @@
+sum_of_squares reads a number inputted by the user and prints out the square of each integer up to n summed. So if n=3 it would print 1 + 4 + 9 = 14
+char_class reads one character inputted by the user and outputs what kind of character it is. i.e. uppercase, lowercase, a digit, or none of the above
