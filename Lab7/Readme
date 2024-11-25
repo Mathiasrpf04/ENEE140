@@ -1,0 +1,2 @@
+array_index.c asks the user to enter 10 positive integers, stores them in an array of size 10, then asks the user for another number k, which is between 1 and 10, and prints out the kth number that the user has entered.
+extract_letters.c prompts the user to enter a string and then prints out the English alphabetic characters (both lower case and upper case) that the user has entered, ignoring everything else.
