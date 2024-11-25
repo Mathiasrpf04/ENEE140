@@ -1,0 +1,2 @@
+multiplication_table creates multiple multiplaction tables with a few different modifications.
+permutations creates a random list of size 10, using numbers 1-10, using each number once, using rand calls and prints out the random list and the number of times rand() had to be called.
