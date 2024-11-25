@@ -1,0 +1,2 @@
+clock_coordinates.c prompts the user for the radius of an analog clock, and then prints the x and y coordinates of the 12 hour marks for that clock, assuming that the origin for the x and y axes is in the center of the clock.
+base.c prompts the user for a positive integer and then printsout that number in base 16, base 8 and base 2.
