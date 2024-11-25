@@ -1,0 +1,1 @@
+Reads through a text file and sorts out each unique word into a hash-table and records how many times each unique word is read.
